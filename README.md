@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Priscilla Hurtado 👋
 
-<!--
-**PriscillaHM/PriscillaHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Egresada de Ingeniería en Sistemas Computacionales
 
-Here are some ideas to get you started:
+💻 Interesada en:
+- Desarrollo Web
+- Desarrollo Móvil
+- QA Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tecnologías:
+JavaScript | Dart | Flutter | HTML | CSS | Git | PostgreSQL
+
+📍 Ensenada, Baja California, México
+
+Actualmente fortaleciendo mi portafolio y buscando oportunidad como Junior Developer o QA Tester.
